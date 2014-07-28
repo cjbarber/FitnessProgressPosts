@@ -23,18 +23,23 @@
 [StrStd]()
 
 Squat
+
  * Any additional information.
 
 Bench Press
+
  * Any additional information.
 
 Deadlift
+
  * Any additional information.
 
 Overhead Press
+
  * Any additional information.
 
 Other Lifts/Accessories
+
  * Any additional information.
 
 ### Stats and Pictures
