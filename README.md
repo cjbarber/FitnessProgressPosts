@@ -9,12 +9,33 @@
 
 ### Lift Progress
 
+*How to use*
+
+- Add or remove time points as needed.
+
 |5RM      |#{timeOne}|#{timeTwo}|#{timeThree}|
 |:--------|:--------:|:--------:|:----------:|
 |Squat    |          |          |            |
 |Bench    |          |          |            |
 |Deadlift |          |          |            |
 |OHP      |          |          |            |
+
+[StrStd]()
+
+Squat
+ * Any additional information.
+
+Bench Press
+ * Any additional information.
+
+Deadlift
+ * Any additional information.
+
+Overhead Press
+ * Any additional information.
+
+Other Lifts/Accessories
+ * Any additional information.
 
 ### Stats and Pictures
 
@@ -30,6 +51,20 @@ Use [Imgur Links](http://imgur.com/%) for images.
 
 ### Diet
 
+Information to include:
+
+ * Macro split
+
+ * How you treated your diet generally (did you follow 100%, did you just eyeball it, did you drink/go out, etc)
+
+ * Common/favorite meals
+
+ * Any tips
+
+*How to use*
+
+ - Add or remove timeframes as needed.
+
 |Timeframe   |Information|
 |:-----------|:----------|
 |#{timeOne}  |           |
@@ -37,4 +72,10 @@ Use [Imgur Links](http://imgur.com/%) for images.
 |#{timeThree}|           |
 
 
-### What Now?
+### About This Progress Post Format
+
+Created using [the reddit fitness progress tracking post template]().
+
+### Future Goals
+
+
