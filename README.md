@@ -1,3 +1,17 @@
+Suggested Title:
+
+[Progress] #{age} Year Old #{gender} #{transformation}
+
+Where #{transformation} may be:
+
+ - #{startWeight} - #{endWeight} = #{difference} lost
+
+ - #{routine} results
+
+ - Muscle Gain Progress
+
+ - etc.
+
 ### Background
 
 |Topic              |Information|

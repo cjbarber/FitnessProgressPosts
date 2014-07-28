@@ -101,3 +101,13 @@ Why is it awesome?
  - Makes good use of formatting/bold/bullet points
 
 ### Progress Post Templates
+
+
+
+### What Now?
+
+ * [Check out the Templates (hosted on Github)]()
+
+ * [Share the templates on Twitter](https://twitter.com/intent/tweet?related=chrisbarber&text=How to properly showcase fitness progress, courtesy of reddit&url=http://google.com&via=chrisbarber)
+
+ * Comment on this post
