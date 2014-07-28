@@ -108,6 +108,4 @@ Why is it awesome?
 
  * [Check out the Templates (hosted on Github)](https://github.com/cjbarber/FitnessProgressPosts)
 
- * [Share the templates on Twitter](https://twitter.com/intent/tweet?related=chrisbarber&text=How to properly showcase fitness progress, courtesy of reddit&url=http://google.com&via=chrisbarber)
-
  * Comment on this post! Send feedback.
