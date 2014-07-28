@@ -4,9 +4,9 @@ Suggested Title:
 
 Where #{transformation} may be:
 
- - #{startWeight} - #{endWeight} = #{difference} lost
+ - \#{startWeight} - #{endWeight} = #{difference} lost
 
- - #{routine} results
+ - \#{routine} results
 
  - Muscle Gain Progress
 
