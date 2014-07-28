@@ -1,4 +1,14 @@
-Suggested Title:
+### How to Use This
+
+1. [View the raw file](https://raw.githubusercontent.com/cjbarber/FitnessProgressPosts/master/README.md)
+
+2. Copy and paste it into a [new /r/fitness self post](http://www.reddit.com/r/Fitness/submit?selftext=true)
+
+3. Title your post well
+
+4. Fill in all the spaces with your information!
+
+**Suggested Title:**
 
 [Progress] #{age} Year Old #{gender} #{transformation}
 
@@ -11,6 +21,8 @@ Where #{transformation} may be:
  - Muscle Gain Progress
 
  - etc.
+
+-----
 
 ### Background
 
@@ -78,6 +90,12 @@ Information to include:
 
  * Common/favorite meals
 
+ * Supplements used
+
+ * Snacks
+
+ * Drinks
+
  * Any tips
 
 *How to use*
@@ -95,6 +113,13 @@ Information to include:
 
 Created using [the reddit fitness progress tracking post template]().
 
-### Future Goals
+### Optional
 
+**Future Goals:**
+
+ - 
+
+**Thanks to:**
+
+ - 
 
