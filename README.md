@@ -123,3 +123,10 @@ Created using [the reddit fitness progress tracking post template]().
 
  - 
 
+----------
+
+#### Next Steps
+
+Star this repository on Github.
+
+[Share the templates on Twitter](https://twitter.com/intent/tweet?related=chrisbarber&text=How%20to%20properly%20showcase%20fitness%20progress,%20courtesy%20of%20reddit&url=http://www.reddit.com/r/Fitness/comments/2bypdy/how_to_write_awesome_progress_posts_the_rfitness/&via=chrisbarber)
